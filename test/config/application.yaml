@@ -1,0 +1,14 @@
+app:
+  name: mini-init
+  version: 0.0.1
+
+  uid: '1234567890'
+
+log:
+  is_use: true
+  yaml_path: config/log.yaml
+
+banner:
+  is_show: true
+  file_path: banner.txt
+  welcome: welcome use mini-init (v0.0.1)
