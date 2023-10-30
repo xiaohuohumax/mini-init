@@ -73,3 +73,10 @@ config_data = config.get_config(Config)
 print(config_data.app.name)
 # mini-init
 ```
+
+使用例子
+-------
+
+| 例子目录                       | 说明                                     |
+| ------------------------------ | ---------------------------------------- |
+| [example/base](./example/base) | 简单例子(日志,环境变量,日志,配置,banner) |
