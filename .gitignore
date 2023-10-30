@@ -3,7 +3,7 @@
 .tox
 .pytest_cache
 
-log
+*.log
 dist
 
 __pycache__
